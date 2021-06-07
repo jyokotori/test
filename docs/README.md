@@ -1,4 +1,4 @@
 # Test
-- [test0](./test.md#test0)
-- [test1](./test.md#test1)
-- [test2](./test.md#test2)
+- [test](./test.md#test)
+- [test1](./test.md#test-1)
+- [test2](./test.md#test-2)
